@@ -1,6 +1,6 @@
 {
   "name": "@eldrforge/shared",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Shared utilities for Eldrforge tools - storage, validation, errors, and more",
   "main": "dist/index.js",
   "type": "module",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calenvarek/shared-utils.git"
+    "url": "git+https://github.com/grunnverk/shared-utils.git"
   },
   "scripts": {
     "build": "npm run lint && tsc --noEmit && vite build",
@@ -36,7 +36,7 @@
     "helpers",
     "typescript"
   ],
-  "author": "Calen Varek <calenvarek@gmail.com>",
+  "author": "Tim O'Brien <tobrien@discursive.com>",
   "license": "Apache-2.0",
   "dependencies": {
     "dayjs": "^1.11.13",
@@ -59,7 +59,7 @@
     }
   },
   "devDependencies": {
-    "@eldrforge/git-tools": "^0.1.15",
+    "@eldrforge/git-tools": "^0.1.16",
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.33.0",
     "@swc/core": "^1.13.3",
