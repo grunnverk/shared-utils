@@ -1,5 +1,5 @@
 /**
- * Error types for @eldrforge packages
+ * Error types for @grunnverk packages
  */
 
 export { ArgumentError } from './ArgumentError';

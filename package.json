@@ -1,7 +1,7 @@
 {
-  "name": "@eldrforge/shared",
+  "name": "@grunnverk/shared",
   "version": "0.1.11-dev.0",
-  "description": "Shared utilities for Eldrforge tools - storage, validation, errors, and more",
+  "description": "Shared utilities for grunnverk tools - storage, validation, errors, and more",
   "main": "dist/index.js",
   "type": "module",
   "exports": {
@@ -51,11 +51,11 @@
     "zod": "^4.1.12"
   },
   "peerDependencies": {
-    "@eldrforge/git-tools": "^1.0.1",
+    "@grunnverk/git-tools": "^1.0.1",
     "winston": "^3.17.0"
   },
   "peerDependenciesMeta": {
-    "@eldrforge/git-tools": {
+    "@grunnverk/git-tools": {
       "optional": true
     },
     "winston": {
@@ -63,7 +63,7 @@
     }
   },
   "devDependencies": {
-    "@eldrforge/git-tools": "^1.0.1",
+    "@grunnverk/git-tools": "^1.0.1",
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.33.0",
     "@swc/core": "^1.13.3",

@@ -1,5 +1,5 @@
 /**
- * Shared types for @eldrforge packages
+ * Shared types for @grunnverk packages
  */
 
 export interface Logger {
