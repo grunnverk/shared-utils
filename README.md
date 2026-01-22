@@ -1,10 +1,10 @@
-# @eldrforge/shared
+# @grunnverk/shared
 
-Shared utilities for Eldrforge tools.
+Shared utilities for grunnverk tools.
 
 ## Overview
 
-This package provides common utilities used across @eldrforge packages:
+This package provides common utilities used across @grunnverk packages:
 - File storage operations
 - User input handling
 - Error types
@@ -15,7 +15,7 @@ This package provides common utilities used across @eldrforge packages:
 ## Installation
 
 ```bash
-npm install @eldrforge/shared
+npm install @grunnverk/shared
 ```
 
 ## Dependencies
@@ -30,7 +30,7 @@ npm install @eldrforge/shared
 ## Usage
 
 ```typescript
-import { getLogger, setLogger } from '@eldrforge/shared';
+import { getLogger, setLogger } from '@grunnverk/shared';
 
 // Set custom logger
 setLogger(myWinstonLogger);

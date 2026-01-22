@@ -1,6 +1,6 @@
 /**
- * @eldrforge/shared
- * Shared utilities for Eldrforge tools
+ * @grunnverk/shared
+ * Shared utilities for grunnverk tools
  */
 
 // Types

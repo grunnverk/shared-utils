@@ -1,8 +1,8 @@
-# Test Coverage Improvement - @eldrforge/shared
+# Test Coverage Improvement - @grunnverk/shared
 
 ## Executive Summary
 
-Successfully increased test coverage in the `@eldrforge/shared` package from **25.13%** to **72.74%** statement coverage - an improvement of **47.61 percentage points**. All 166 tests pass successfully.
+Successfully increased test coverage in the `@grunnverk/shared` package from **25.13%** to **72.74%** statement coverage - an improvement of **47.61 percentage points**. All 166 tests pass successfully.
 
 ## Key Achievements
 

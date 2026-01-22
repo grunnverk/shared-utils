@@ -1,4 +1,4 @@
-# Coverage Improvement Summary for @eldrforge/shared
+# Coverage Improvement Summary for @grunnverk/shared
 
 ## Overview
 Successfully increased overall test coverage from **25.13%** to **72.74%** - a **47.61 percentage point improvement** in statement coverage.
