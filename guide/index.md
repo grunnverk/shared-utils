@@ -1,8 +1,8 @@
-# @eldrforge/shared - Agentic Guide
+# @grunnverk/shared - Agentic Guide
 
 ## Purpose
 
-Shared utilities for Eldrforge tools. Provides storage, validation, error handling, date utilities, and common helpers.
+Shared utilities for grunnverk tools. Provides storage, validation, error handling, date utilities, and common helpers.
 
 ## Key Features
 
@@ -22,7 +22,7 @@ import {
   ArgumentError,
   formatDate,
   safeReadFile
-} from '@eldrforge/shared';
+} from '@grunnverk/shared';
 
 // Storage
 const storage = new Storage('config.json');
