@@ -61,7 +61,8 @@ export default defineConfig({
             external: [
                 'semver',
                 'shell-escape',
-                'winston'
+                'winston',
+                '@grunnverk/git-tools'
             ],
         },
         // Make sure Vite generates ESM-compatible code
